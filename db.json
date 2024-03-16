@@ -1,0 +1,155 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 14",
+      "description": "New Apple iphone 14 series with bionic chip",
+      "price": 69549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://img.freepik.com/free-vector/realistic-smartphone-device_52683-29765.jpg?t=st=1710558947~exp=1710562547~hmac=2d8bfe5c71c2668361f7fcd1df36f5af87280619ef35a90691cbe27aa77a141b&w=740",
+      "images": [
+        "https://img.freepik.com/free-photo/elegant-smartphone-composition_23-2149437112.jpg?t=st=1710559058~exp=1710562658~hmac=4c2842c491a331db94d08286ba767a7fd876aa09279fdef8e3b48bdd8b6bd4a0&w=996"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "iPhone 14pro",
+      "description": "New Apple iphone 14pro series with bionic chip 6.5-inch Super Retina HD display with OLED technology.",
+      "price": 89999,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 64,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://img.freepik.com/free-photo/elegant-smartphone-composition_23-2149437112.jpg?t=st=1710559058~exp=1710562658~hmac=4c2842c491a331db94d08286ba767a7fd876aa09279fdef8e3b48bdd8b6bd4a0&w=996",
+      "images": [
+        "https://img.freepik.com/free-vector/realistic-smartphone-device_52683-29765.jpg?t=st=1710558947~exp=1710562547~hmac=2d8bfe5c71c2668361f7fcd1df36f5af87280619ef35a90691cbe27aa77a141b&w=740"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Samsung A30",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 19999,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1591122947157-26bad3a117d2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1591122947157-26bad3a117d2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Samsung A72",
+      "description": "Samsung A72 is the latest flagship from Samsung. It has a large screen and powerful processor.",
+      "price": 29280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1591122947157-26bad3a117d2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1591122947157-26bad3a117d2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Samsung A71",
+      "description": "Samsung A71is the latest flagship from Samsung. It has a large screen and powerful processor.",
+      "price": 29280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1591122947157-26bad3a117d2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1591122947157-26bad3a117d2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 122749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "https://img.freepik.com/free-photo/view-electronic-product-balancing-podium_23-2150141319.jpg?t=st=1710560006~exp=1710563606~hmac=fa2d36e46e0b5d006f53173d130d33a2a69898194fd85ea9fd51d0f3683686ed&w=360",
+      "images": [
+        "https://img.freepik.com/free-photo/electronic-device-balancing-concept_23-2150422322.jpg?t=st=1710560078~exp=1710563678~hmac=38fbc94f367dc5757c041ad2765cd070ebe4affc8d6bee89ff814bf246a5f2df&w=826"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book 2",
+      "description": "Samsung Galaxy Book 2 (2022) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 71499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/163929822/in-feature-light--powerful--made-to-move-in-style-531252377?$FB_TYPE_A_MO_JPG$",
+      "images": [
+        "https://image-us.samsung.com/SamsungUS/home/computing/galaxybooks/472022/pro/Gallery_Images_Venus2_15_WIFI_US_Graphite_001_Front_RGB.jpg?$product-details-jpg$"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Samsung Galaxy Book 3",
+      "description": "Samsung Galaxy Book 3 (2023) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 81499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/163929822/in-feature-light--powerful--made-to-move-in-style-531252377?$FB_TYPE_A_MO_JPG$",
+      "images": [
+        "https://image-us.samsung.com/SamsungUS/home/computing/galaxybooks/472022/pro/Gallery_Images_Venus2_15_WIFI_US_Graphite_001_Front_RGB.jpg?$product-details-jpg$"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Asus Laptop",
+      "description": "Asus Rog Zephyrus16inch is the most powerful laptop",
+      "price": 61099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Asus",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/71JFMDI0tOL.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71JFMDI0tOL.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "HP Pavilion 15",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 12th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 11",
+      "price": 51099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "laptops",
+      "thumbnail": "https://www.reliancedigital.in/medias/HP-Pavilion-eh3055AU-493838238-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTYxNHxpbWFnZS9qcGVnfGltYWdlcy9oNWYvaDk2LzEwMDIxNTg0NTAyODE0LmpwZ3w4NGU2MTg3OTg3NTZhYTM0NDAwNmU5NDdlYmM1MTVmZTZiNGFkNTE3NDg2ODk2MDY2ZTY1Mjc2MTAyODYwOThl",
+      "images": [
+        "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1689156388/Croma%20Assets/Computers%20Peripherals/Laptop/Images/272771_0_gdkwqq.png?tr=w-600",
+        "https://www.reliancedigital.in/medias/HP-Pavilion-eh3055AU-493838238-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTYxNHxpbWFnZS9qcGVnfGltYWdlcy9oNWYvaDk2LzEwMDIxNTg0NTAyODE0LmpwZ3w4NGU2MTg3OTg3NTZhYTM0NDAwNmU5NDdlYmM1MTVmZTZiNGFkNTE3NDg2ODk2MDY2ZTY1Mjc2MTAyODYwOThl"
+      ]
+    }
+  ]
+}
